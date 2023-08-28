@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import { auth } from '@/stores/auth'
 </script>
 
 <template>
   <main>
-    <section class="hero is-fullheight">
+    <section class="hero is-fullheight" v-if="auth.account">
 		<div class="hero-body">
 			<div class="container has-text-centered">
 				<div class="columns is-8 is-variable ">
