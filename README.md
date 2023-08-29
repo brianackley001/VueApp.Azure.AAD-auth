@@ -7,4 +7,6 @@ Massive shoutout &amp; tip of the hat to [Dave Stewart](https://davestewart.co.u
 - [MIT License: Copyright (c) 2023 Dave Stewart](https://github.com/davestewart/msal-vue-demo/blob/main/LICENSE)
 
 
-AAD Tenant for logging in: cmbfossil.onmicrosoft.com
+AAD Tenant for authentication: cmbfossil.onmicrosoft.com
+
+[![.github/workflows/azure-webapps-node.yml](https://github.com/brianackley001/VueApp.Azure.AAD-auth/actions/workflows/azure-webapps-node.yml/badge.svg?branch=main)](https://github.com/brianackley001/VueApp.Azure.AAD-auth/actions/workflows/azure-webapps-node.yml)
